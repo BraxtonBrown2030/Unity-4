@@ -77,3 +77,23 @@ Inputs/Assets/Cyberleaf - Retro SFX/
 
 Inputs/Assets/TextMesh Pro/
 
+
+*.meta
+
+*.hdanc
+
+*.cs
+
+*.png
+
+2D Platformer/Assets/Houdini_Imports/HoudiniEngineAssetCache/Baked/cross1/Meshes/
+
+*.mat
+
+*.obj
+
+*.hipnc
+
+*.asset
+
+*.mel
